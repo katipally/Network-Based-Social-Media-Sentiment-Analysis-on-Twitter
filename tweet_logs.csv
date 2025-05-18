@@ -1,0 +1,334 @@
+timestamp,model,text,prediction,confidence
+2025-05-06T18:55:26.040197+00:00,BERT,spring break in plain city... it's snowing,Negative,0.8501
+2025-05-06T18:56:42.420784+00:00,BERT,spring break in plain city... it's snowing,Negative,0.8501
+2025-05-06T18:58:31.703055+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T18:58:31.727930+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T18:58:31.751915+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T18:58:31.777610+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T18:58:31.809844+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T18:58:31.834609+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T18:58:31.859919+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T18:58:31.888227+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T18:58:31.911855+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T18:58:31.937953+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T18:58:31.960210+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T18:58:31.985627+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:01:17.996654+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:01:18.021050+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:01:18.044098+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:01:18.067774+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:01:18.100346+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:01:18.127753+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:01:18.155503+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:01:18.179452+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:01:18.207143+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:01:18.233378+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:01:18.255700+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:01:18.280200+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:02:03.744096+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:02:03.770767+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:02:03.794432+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:02:03.818872+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:02:03.849464+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:02:03.875877+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:02:03.900294+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:02:03.926123+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:02:03.950374+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:02:03.976254+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:02:03.999773+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:02:04.025269+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:02:14.551695+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:02:14.575213+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:02:14.596116+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:02:14.617864+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:02:14.642385+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:02:14.664024+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:02:14.687821+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:02:14.710498+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:02:14.733048+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:02:14.759093+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:02:14.781578+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:02:14.806603+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:02:32.253974+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:02:32.281246+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:02:32.304037+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:02:32.329387+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:02:32.365063+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:02:32.389224+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:02:32.413173+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:02:32.437270+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:02:32.462350+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:02:32.488861+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:02:32.511950+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:02:32.536776+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:04:42.615552+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:04:42.645274+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:04:42.668522+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:04:42.692486+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:04:42.717572+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:04:42.741007+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:04:42.766406+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:04:42.792771+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:04:42.817529+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:04:42.845088+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:04:42.869167+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:04:42.896006+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:06:54.177926+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:06:54.201394+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:06:54.222639+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:06:54.245218+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:06:54.270345+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:06:54.293362+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:06:54.317881+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:06:54.345332+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:06:54.378857+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:06:54.414622+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:06:54.459582+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:06:54.500154+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:09:12.230057+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:09:12.254649+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:09:12.277619+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:09:12.303738+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:09:12.335852+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:09:12.357738+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:09:12.382816+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:09:12.406776+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:09:12.428924+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:09:12.454178+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:09:12.475868+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:09:12.499783+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:09:42.650041+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:09:42.674277+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:09:42.695835+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:09:42.718624+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:09:42.743328+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:09:42.765503+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:09:42.788925+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:09:42.813262+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:09:42.835750+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:09:42.862450+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:09:42.885628+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:09:42.911785+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:12:23.336438+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:12:23.361940+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:12:23.385325+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:12:23.409778+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:12:23.441725+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:12:23.468350+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:12:23.491932+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:12:23.516888+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:12:23.553075+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:12:23.580333+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:12:23.603021+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:12:23.627940+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:12:53.330436+00:00,BERT,sad,Negative,0.9966
+2025-05-06T19:14:58.990276+00:00,BERT,sad,Negative,0.9966
+2025-05-06T19:15:12.449895+00:00,BERT,I am very sad,Negative,0.9974
+2025-05-06T19:15:29.046569+00:00,BERT,spring break in plain city... it's snowing,Negative,0.8501
+2025-05-06T19:18:21.435862+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:18:21.465547+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:18:21.489714+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:18:21.514084+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:18:21.540335+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:18:21.564565+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:18:21.589608+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:18:21.614962+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:18:21.638073+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:18:21.666068+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:18:21.691479+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:18:21.721269+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:23:21.993300+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:23:22.026408+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:23:22.049540+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:23:22.073870+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:23:22.098721+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:23:22.123754+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:23:22.149382+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:23:22.175412+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:23:22.199058+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:23:22.224535+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:23:22.246900+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:23:22.274242+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:25:50.184857+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:29:04.235356+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:29:04.262005+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:29:04.285755+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:29:04.314123+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:29:04.351167+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:29:04.375351+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:29:04.401027+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:29:04.427303+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:29:04.454584+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:29:04.484382+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:29:04.508221+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:29:04.533981+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:29:39.137461+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:29:39.169849+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:29:39.193160+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:29:39.216494+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:29:39.243357+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:29:39.269999+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:29:39.293932+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:29:39.321976+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:29:39.347184+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:29:39.376674+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:29:39.404100+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:29:39.434766+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:29:56.160204+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:30:30.834646+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:30:40.440368+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:30:40.466263+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:30:40.490004+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:30:40.513564+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:30:40.545099+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:30:40.571662+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:30:40.595757+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:30:40.622994+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:30:40.649530+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:30:40.679047+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:30:40.702065+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:30:40.727729+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:31:04.861204+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:39:09.338203+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:39:46.791719+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:40:21.424648+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:40:21.451228+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:40:21.473758+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:40:21.496712+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:40:21.521304+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:40:21.544132+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:40:21.567090+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:40:21.591817+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:40:21.614143+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:40:21.640372+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:40:21.663563+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:40:21.688926+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:41:06.880935+00:00,Logistic Regression,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8621
+2025-05-06T19:41:06.883460+00:00,Logistic Regression,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9276
+2025-05-06T19:41:06.884652+00:00,Logistic Regression,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Positive,0.5134
+2025-05-06T19:41:06.885533+00:00,Logistic Regression,my whole body feels itchy and like its on fire ,Negative,0.9394
+2025-05-06T19:41:06.886338+00:00,Logistic Regression,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.7712
+2025-05-06T19:41:06.887116+00:00,Logistic Regression,@Kwesidei not the whole crew ,Positive,0.6822
+2025-05-06T19:41:06.887880+00:00,Logistic Regression,Need a hug ,Negative,0.7698
+2025-05-06T19:41:06.888722+00:00,Logistic Regression,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.9653
+2025-05-06T19:41:06.889509+00:00,Logistic Regression,@Tatiana_K nope they didn't have it ,Negative,0.8701
+2025-05-06T19:41:06.890857+00:00,Logistic Regression,@twittera que me muera ? ,Negative,0.5625
+2025-05-06T19:41:06.891775+00:00,Logistic Regression,spring break in plain city... it's snowing ,Negative,0.8232
+2025-05-06T19:41:06.892508+00:00,Logistic Regression,I just re-pierced my ears ,Positive,0.8884
+2025-05-06T19:41:13.888536+00:00,SVM,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.6774
+2025-05-06T19:41:13.890535+00:00,SVM,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.7042
+2025-05-06T19:41:13.892079+00:00,SVM,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5153
+2025-05-06T19:41:13.893148+00:00,SVM,my whole body feels itchy and like its on fire ,Negative,0.7201
+2025-05-06T19:41:13.894083+00:00,SVM,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.6795
+2025-05-06T19:41:13.894991+00:00,SVM,@Kwesidei not the whole crew ,Positive,0.6014
+2025-05-06T19:41:13.895707+00:00,SVM,Need a hug ,Negative,0.7700
+2025-05-06T19:41:13.897085+00:00,SVM,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.6778
+2025-05-06T19:41:13.898234+00:00,SVM,@Tatiana_K nope they didn't have it ,Negative,0.6851
+2025-05-06T19:41:13.899255+00:00,SVM,@twittera que me muera ? ,Negative,0.5604
+2025-05-06T19:41:13.900154+00:00,SVM,spring break in plain city... it's snowing ,Negative,0.6499
+2025-05-06T19:41:13.900985+00:00,SVM,I just re-pierced my ears ,Positive,0.6196
+2025-05-06T19:41:21.936448+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T19:41:21.963373+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T19:41:21.989040+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T19:41:22.014056+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T19:41:22.046403+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T19:41:22.072094+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T19:41:22.095569+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T19:41:22.121698+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:41:22.146164+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T19:41:22.173519+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T19:41:22.196771+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T19:41:22.222365+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T19:42:00.962724+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T19:42:20.950953+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T19:43:54.515641+00:00,BERT,I am very unhappy,Negative,0.9963
+2025-05-06T19:44:25.002193+00:00,BERT,there is terriost attack in India today,Negative,0.9573
+2025-05-06T20:31:57.634422+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T20:32:06.071264+00:00,Logistic Regression,I am sad,Negative,1.0000
+2025-05-06T20:32:14.147257+00:00,SVM,I am sad,Negative,0.9977
+2025-05-06T20:32:28.292100+00:00,SVM,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.6774
+2025-05-06T20:32:28.292776+00:00,SVM,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.7042
+2025-05-06T20:32:28.293302+00:00,SVM,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5153
+2025-05-06T20:32:28.294019+00:00,SVM,my whole body feels itchy and like its on fire ,Negative,0.7201
+2025-05-06T20:32:28.294513+00:00,SVM,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.6795
+2025-05-06T20:32:28.294972+00:00,SVM,@Kwesidei not the whole crew ,Positive,0.6014
+2025-05-06T20:32:28.295383+00:00,SVM,Need a hug ,Negative,0.7700
+2025-05-06T20:32:28.296218+00:00,SVM,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.6778
+2025-05-06T20:32:28.296489+00:00,SVM,@Tatiana_K nope they didn't have it ,Negative,0.6851
+2025-05-06T20:32:28.296809+00:00,SVM,@twittera que me muera ? ,Negative,0.5604
+2025-05-06T20:32:28.297141+00:00,SVM,spring break in plain city... it's snowing ,Negative,0.6499
+2025-05-06T20:32:28.297383+00:00,SVM,I just re-pierced my ears ,Positive,0.6196
+2025-05-06T20:32:47.350762+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T20:32:47.380918+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T20:32:47.410574+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T20:32:47.442983+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T20:32:47.479140+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T20:32:47.511002+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T20:32:47.543272+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T20:32:47.572968+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T20:32:47.602597+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T20:32:47.629748+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T20:32:47.655249+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T20:32:47.685655+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T20:46:55.356150+00:00,BERT,I am very sad and happy,Negative,0.7159
+2025-05-06T20:47:06.747440+00:00,Logistic Regression,I am very sad and happy,Negative,0.9936
+2025-05-06T20:54:15.257949+00:00,Logistic Regression,I am very sad to not feeling very good,Negative,0.9989
+2025-05-06T20:55:22.515069+00:00,BERT,I am very sad to not feeling very good,Negative,0.9972
+2025-05-06T20:56:35.446864+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T20:56:35.543604+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T20:56:35.571115+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T20:56:35.671788+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T20:56:36.116470+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T20:56:36.147793+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T20:56:36.184109+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T20:56:36.213593+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T20:56:36.243327+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T20:56:36.274016+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T20:56:36.304129+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T20:56:36.334423+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T20:58:34.443014+00:00,BERT,I am very sad to not feeling very good,Negative,0.9972
+2025-05-06T21:04:44.561880+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there.",Negative,0.9362
+2025-05-06T21:05:42.302345+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-06T21:05:42.392979+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-06T21:05:42.477111+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-06T21:05:42.558483+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-06T21:05:42.642271+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-06T21:05:42.749285+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-06T21:05:42.827176+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-06T21:05:42.920629+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-06T21:05:43.007622+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-06T21:05:43.087827+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-06T21:05:43.184074+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-06T21:05:43.266153+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-06T22:01:16.177816+00:00,BERT,yash is sad,Negative,0.9927
+2025-05-06T22:37:20.735238+00:00,BERT,I am sad,Negative,0.9971
+2025-05-06T22:37:34.313937+00:00,Logistic Regression,I am sad,Negative,1.0000
+2025-05-06T22:37:40.514196+00:00,SVM,I am sad,Negative,0.9977
+2025-05-06T22:38:04.589496+00:00,SVM,I am sad,Negative,0.9977
+2025-05-17T23:33:47.186963+00:00,BERT,I am happy,Positive,0.9936
+2025-05-17T23:36:02.072497+00:00,BERT,I am happy,Positive,0.9936
+2025-05-17T23:39:22.126731+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-17T23:39:22.174425+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-17T23:39:22.218232+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-17T23:39:22.263837+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-17T23:39:22.317839+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-17T23:39:22.368664+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-17T23:39:22.420057+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-17T23:39:22.459069+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-17T23:39:22.507690+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-17T23:39:22.555835+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-17T23:39:22.609187+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-17T23:39:22.666132+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
+2025-05-18T02:02:07.178550+00:00,BERT,I am happy,Positive,0.9936
+2025-05-18T02:02:33.602460+00:00,BERT,"@switchfoot http://twitpic.com/2y1zl - Awww, that's a bummer.  You shoulda got David Carr of Third Day to do it. ;D",Negative,0.8399
+2025-05-18T02:02:33.640253+00:00,BERT,is upset that he can't update his Facebook by texting it... and might cry as a result  School today also. Blah!,Negative,0.9880
+2025-05-18T02:02:33.679816+00:00,BERT,@Kenichan I dived many times for the ball. Managed to save 50%  The rest go out of bounds,Negative,0.5777
+2025-05-18T02:02:33.725527+00:00,BERT,my whole body feels itchy and like its on fire ,Negative,0.9589
+2025-05-18T02:02:33.763985+00:00,BERT,"@nationwideclass no, it's not behaving at all. i'm mad. why am i here? because I can't see you all over there. ",Negative,0.9362
+2025-05-18T02:02:33.803927+00:00,BERT,@Kwesidei not the whole crew ,Negative,0.6089
+2025-05-18T02:02:33.848511+00:00,BERT,Need a hug ,Negative,0.9679
+2025-05-18T02:02:33.884553+00:00,BERT,"@LOLTrish hey  long time no see! Yes.. Rains a bit ,only a bit  LOL , I'm fine thanks , how's you ?",Positive,0.8901
+2025-05-18T02:02:33.920327+00:00,BERT,@Tatiana_K nope they didn't have it ,Negative,0.9245
+2025-05-18T02:02:33.959075+00:00,BERT,@twittera que me muera ? ,Positive,0.5826
+2025-05-18T02:02:33.997387+00:00,BERT,spring break in plain city... it's snowing ,Negative,0.8501
+2025-05-18T02:02:34.035958+00:00,BERT,I just re-pierced my ears ,Positive,0.7817
